@@ -150,3 +150,12 @@ Si no deseas ejecutarlo localmente puedes optar por entornos de ejecución onlin
 
 ## Lenguaje de programación utilizado para el desarrollo 💻
 * [Python](https://developer.mozilla.org/es/docs/Web/JavaScript) - Lenguaje de programación
+
+## Retos encontrados 📈
+
+Asegúrate de tener Python instalado en tu sistema para poder ejecutar los scripts. Además, puedes utilizar un entorno de desarrollo como Visual Studio Code para una experiencia de codificación más cómoda.
+Si no deseas ejecutarlo localmente puedes optar por entornos de ejecución online como:
+
+## Links de YouTube 🎥
+* [Ejercicio 1](https://youtu.be/JW9irPjuVU4) - Explicación ejercicio 1
+  
