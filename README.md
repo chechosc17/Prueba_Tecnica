@@ -153,9 +153,10 @@ Si no deseas ejecutarlo localmente puedes optar por entornos de ejecución onlin
 
 ## Retos encontrados 📈
 
-Asegúrate de tener Python instalado en tu sistema para poder ejecutar los scripts. Además, puedes utilizar un entorno de desarrollo como Visual Studio Code para una experiencia de codificación más cómoda.
-Si no deseas ejecutarlo localmente puedes optar por entornos de ejecución online como:
+Como uno de los tanto retos con los que me enfrenté fue aprender un tema del cual tenía concimiento pero no me desenvolvía con facilidad como lo son las matrices y listas. También entrar a aprender sobre documentación más a fondo y sintaxis de código nuevas que no pensé ver en tan poco tiempo.
 
 ## Links de YouTube 🎥
 * [Ejercicio 1](https://youtu.be/JW9irPjuVU4) - Explicación ejercicio 1
+* [Ejercicio 3](https://youtu.be/5gmLwixLod8) - Explicación ejercicio 3
+* [Ejercicio 4](https://youtu.be/iz_Q3tfrNqc) - Explicación ejercicio 4
   
