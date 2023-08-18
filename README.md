@@ -153,7 +153,7 @@ Si no deseas ejecutarlo localmente puedes optar por entornos de ejecución onlin
 
 ## Retos encontrados 📈
 
-Como uno de los tanto retos con los que me enfrenté fue aprender un tema del cual tenía concimiento pero no me desenvolvía con facilidad como lo son las matrices y listas. También entrar a aprender sobre documentación más a fondo y sintaxis de código nuevas que no pensé ver en tan poco tiempo.
+Como uno de los tanto retos con los que me enfrenté fue aprender un tema del cual tenía concimiento pero no me desenvolvía con facilidad como lo son las matrices y listas. También entrar a aprender sobre documentación más a fondo y sintaxis de código nuevas que no pensé ver en tan poco tiempo. Fue un reto demasiado interesante que nos animó a seguir practicando y reforzando conocimientos, que es algo muy importante de cara a los retos que vienen en los proximos meses.
 
 ## Links de YouTube 🎥
 * [Ejercicio 1](https://youtu.be/JW9irPjuVU4) - Explicación ejercicio 1
